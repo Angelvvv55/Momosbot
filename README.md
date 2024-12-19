@@ -1,5 +1,5 @@
 # Momosbot
-Proyecto feo que se me ocurrio un dia que me aburria, inspirado en los "momos" de SDLG.
+Proyecto feo que se me ocurrio mientras aprendia Python, inspirado en los "momos" de SDLG.
 
 ![momazos33](https://github.com/user-attachments/assets/a3d4b142-bae0-476d-8476-91626e4d047e)
 ![momazos22](https://github.com/user-attachments/assets/2ddbdeb9-99d6-4d8b-935f-6c629a4d828d)
