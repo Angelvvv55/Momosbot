@@ -1,5 +1,6 @@
 # Momosbot
 Proyecto feo que se me ocurrio mientras aprendia Python, inspirado en los "momos" de SDLG.
+
 PD: OBLIGATORIO importar plantillas, o no funcionara.
 
 ![momazos33](https://github.com/user-attachments/assets/a3d4b142-bae0-476d-8476-91626e4d047e)
