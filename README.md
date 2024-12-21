@@ -1,5 +1,5 @@
 # Momosbot
-Proyecto feo que se me ocurrio mientras aprendia Python, inspirado en los "momos" de SDLG.
+Programa feo que se me ocurrio mientras aprendia Python, inspirado en los "momos" de SDLG.
 
 PD: OBLIGATORIO importar plantillas, la ejecución dara error en caso de no hacerlo.
 
